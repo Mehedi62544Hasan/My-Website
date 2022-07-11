@@ -15,6 +15,7 @@ h1{
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 100px;
 }
 .fast-said{
     width: 50%;
@@ -30,6 +31,15 @@ text-decoration: none;
 border-radius: 5px;
 color: white;
 font-weight: 700;
+}
+.continar2{
+    display: flex;
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+    background-image: url(images/dream-bg.png)
 
 
+}
+.continar2{
+    background-position: right;
 }

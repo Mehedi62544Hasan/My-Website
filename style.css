@@ -1,0 +1,35 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.mehedi{
+    color: orange;
+}
+.mehedi1{
+    color: blue;
+}
+.continar1{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.fast-said{
+    width: 50%;
+    padding-left: 2%;
+}
+.fast-said img{
+    width: 70%;
+}
+.hire-me{
+    background-image: linear-gradient(tomato, orange);
+padding: 10px 40px;
+text-decoration: none;
+border-radius: 5px;
+color: white;
+font-weight: 700;
+
+
+}
